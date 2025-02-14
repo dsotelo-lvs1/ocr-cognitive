@@ -5,7 +5,7 @@ from msrest.authentication import CognitiveServicesCredentials
 import time
 
 # Set up the service key and endpoint
-subscription_key = "CONGNITIVE_SERVICES_KEY"
+subscription_key = "COGNITIVE_SERVICES_KEY"
 endpoint = "COGNITIVE_SERVICES_URL"
 
 # Authenticate the client
